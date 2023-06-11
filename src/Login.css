@@ -1,0 +1,67 @@
+.login-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f8f8f8;
+  }
+  
+  .login-header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .login-title {
+    font-size: 28px;
+    font-weight: bold;
+    color: #333333;
+  }
+  
+  .login-subtitle {
+    font-size: 16px;
+    color: #777777;
+  }
+  
+  .login-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .login-input {
+    width: 300px;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #dddddd;
+    border-radius: 5px;
+    font-size: 14px;
+  }
+  
+  .login-button {
+    width: 320px;
+    padding: 10px;
+    background-color: #336699;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .login-button:hover {
+    background-color: #1e496d;
+  }
+  
+  .logo-background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: -1;
+    background-image: url('https://media.licdn.com/dms/image/C560BAQFOjTUn_b2ZqQ/company-logo_200_200/0/1678103344824?e=1694649600&v=beta&t=w135OcHzBfSZ3m9jtz4WvBfvqRW-w32vvxKs9h0Ig0o');
+    background-size: cover;
+    filter: blur(8px);
+  }
+  
