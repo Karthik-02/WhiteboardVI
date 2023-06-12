@@ -89,6 +89,9 @@ Contains Three buttons,
 
 ![image](https://github.com/Karthik-02/WhiteboardVI/assets/81423983/3379b5f9-02e6-4727-9ead-fea601c76253)
 
+# Multiuser
+
+![image](https://github.com/Karthik-02/WhiteboardVI/assets/81423983/f8ab9d08-47dc-46bf-8c4e-8d7da0e3b9d0)
 
 
 
