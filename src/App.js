@@ -370,7 +370,7 @@ function App() {
           src="https://media.licdn.com/dms/image/C560BAQFOjTUn_b2ZqQ/company-logo_200_200/0/1678103344824?e=1694649600&v=beta&t=w135OcHzBfSZ3m9jtz4WvBfvqRW-w32vvxKs9h0Ig0o"
           alt="Company Logo"
         />
-        
+        </div>
          
       </div>
         
